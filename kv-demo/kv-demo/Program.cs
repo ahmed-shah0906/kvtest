@@ -16,7 +16,7 @@ namespace kv_demo
             var client = new SecretClient(new Uri(kvUri), new DefaultAzureCredential());
             var secret_Value = await client.GetSecretAsync("Hello");
             Console.WriteLine($"Secret text - {secret_Value.Value.Value}!");
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

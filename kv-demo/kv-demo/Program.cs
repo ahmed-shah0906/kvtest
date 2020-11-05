@@ -14,7 +14,7 @@ namespace kv_demo
             //var kvUri = $"https://{keyVaultName}.vault.azure.net";
             var kvUri = "https://kv-az-demo-web.vault.azure.net/";
             var client = new SecretClient(new Uri(kvUri), new DefaultAzureCredential());
-            var secret_Value = await client.GetSecretAsync("Hello");
+            var secret_Value = await client.GetSecretAsync("SecretName");
             Console.WriteLine($"Secret text - {secret_Value.Value.Value}!");
             //Console.ReadKey();
         }

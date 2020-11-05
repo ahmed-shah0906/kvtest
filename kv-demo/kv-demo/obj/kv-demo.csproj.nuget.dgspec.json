@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shahrukhahmed\\source\\repos\\kv-demo\\kv-demo\\kv-demo.csproj": {}
+    "D:\\Codes\\kv-demo\\kv-demo\\kv-demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shahrukhahmed\\source\\repos\\kv-demo\\kv-demo\\kv-demo.csproj": {
+    "D:\\Codes\\kv-demo\\kv-demo\\kv-demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahrukhahmed\\source\\repos\\kv-demo\\kv-demo\\kv-demo.csproj",
+        "projectUniqueName": "D:\\Codes\\kv-demo\\kv-demo\\kv-demo.csproj",
         "projectName": "kv-demo",
-        "projectPath": "C:\\Users\\shahrukhahmed\\source\\repos\\kv-demo\\kv-demo\\kv-demo.csproj",
+        "projectPath": "D:\\Codes\\kv-demo\\kv-demo\\kv-demo.csproj",
         "packagesPath": "C:\\Users\\shahrukhahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahrukhahmed\\source\\repos\\kv-demo\\kv-demo\\obj\\",
+        "outputPath": "D:\\Codes\\kv-demo\\kv-demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
